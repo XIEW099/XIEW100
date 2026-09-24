@@ -1,11 +1,19 @@
 ## <Green Guardian>
 
-<Just play it>
+◇This project was created and programmed by me using Scratch.
 
-### How to Use It
+### Credits
+◇ Some artwork, sounds, and other resources were
+used or adapted from Scratch and free-to-use
+resources. Credit is given to the original creators
+where applicable.
 
-<Instuction will be provide in the game.
+◇ The story, game concept, missions, programming,
+and overall design were developed and combined by me.
 
-### Built With
+✓ Inspired by SDG 13:
+Climate Action
 
-<Scratch>
+
+
+
