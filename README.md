@@ -1,4 +1,4 @@
-## <Green Guardian>
+## Green Guardian
 
 ◇This project was created and programmed by me using Scratch.
 
